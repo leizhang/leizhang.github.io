@@ -35,7 +35,7 @@ plugins:
 
 google_analytics:
   -  # Old GA Universal Analytics property
-  -  # New GA4 property
+  -  G-NT3Q949EKF # New GA4 property
 
 gravatar_hash: 
 code_block_max_height: 500px
