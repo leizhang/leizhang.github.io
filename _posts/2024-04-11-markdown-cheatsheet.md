@@ -144,7 +144,7 @@ pie
 "TV shows" : 20
 ```
  ----
-## Mathematical expressions (19 July 2022)
+## Mathematical expressions
 
 ```markdown
 This is an inline math expression $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
