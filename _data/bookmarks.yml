@@ -1,140 +1,102 @@
 Reading:
   - name: website archive
-    description:
     link: https://archive.is/
     
   - name: Hacker News
-    description:
     link: https://news.ycombinator.com/
 
   - name: 科技爱好者周刊
-    description:
     link: https://github.com/ruanyf/weekly
 
 English:
   - name: New Yorker Times
-    description:
     link: https://www.nytimes.com/2017/11/21/learning/lesson-plans/teaching-close-reading-and-compelling-writing-with-the-new-sentences-column.html?action=click&module=RelatedLinks&pgtype=Article
 
   - name: Purdue Online Writing Lab
-    description:
     link: https://owl.purdue.edu/owl_exercises/index.html
 
 News:
-  - name: NZ Herald
-    description:
-    link: https://www.nzherald.co.nz/
-
-  - name: Stuff
-    description:
-    link: https://www.stuff.co.nz/
-    
   - name: Interets NZ
-    description:
     link: https://www.interest.co.nz
 
 Docker:
   - name: Dockerfile Security Best Practices
-    description:
     link: https://cloudberry.engineering/article/dockerfile-security-best-practices/
 
 Git:
   - name: Oh Shit, Git
-    description:
     link: https://ohshitgit.com/
 
   - name: Git Branch model
-    description:
     link: https://nvie.com/posts/a-successful-git-branching-model/
 
 AI:
   - name: Google Education - AI
-    description:
     link: https://ai.google/education/
 
   - name: Practical Deep Learning for Coders 2022
-    description:
     link: https://www.fast.ai/2022/07/21/dl-coders-22/
 
 Data Engineer:
   - name: Awesome Data Engineer
-    description:
     link: https://awesomedataengineering.com/
     
 Architecture:
   - name: Zach blog
-    description:
     link: https://www.zachman.com/resources/zblog
 
 Python:
   - name: David Beazley
-    description:
     link: https://www.dabeaz.com/  
     
 Etc:
   - name: origami
-    description:
     link: https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain
 
 Bloggers:
-  - name: Dan Wang | The secure transport of light
-    description:
+  - name: Dan Wang 
     link: https://danwang.co/
 
   - name: Josh W Comeau
-    description:
     link: https://www.joshwcomeau.com/
 
   - name: Bouke van der Bijl
-    description:
     link: https://bou.ke
     
   - name: Matt Rickard
-    description:
     link: https://matt-rickard.com
 
   - name: 4pp1n51ght5
-    description:
     link: https://4pp1n51ght5.com/
 
   - name: Luciano Mammino "Loige" - FullStack & Cloud developer, fighter, butterfly maker!
-    description:
     link: https://loige.co/
 
   - name: Brandon's Website
-    description:
     link: https://www.brandons.me/
 
   - name: SamanthaMing.com
-    description:
     link: https://www.brandons.me/
 
   - name: Felix Gerschau
-    description:
     link: https://felixgerschau.com
     
   - name: kvark's dev blog
-    description:
     link: http://kvark.github.io/
 
   - name: Dan luu
-    description:
     link: https://danluu.com/
 
   - name: Tomasz Tunguz by @ttunguz
-    description:
     link: https://tomtunguz.com
 
   - name: Yonatan Kra
-    description:
     link: https://yonatankra.com/
 
   - name: Code In Complete
-    description:
     link: https://codeincomplete.com/
 
   - name: Cal Newport
-    description:
     link: https://www.calnewport.com/blog/
     
   - name: Joshua Stein
@@ -166,15 +128,12 @@ Bloggers:
     link: https://www.iccat.cn/
 
   - name: 老生常谈云媒体
-    description:
     link: https://laosheng.top/fly/
 
   - name: 小赖子的英国生活和资讯
-    description:
     link: https://justyy.com/
 
   - name: 郭家宝
-    description:
     link: https://byvoid.com/zhs/
 
   - name: 运维咖啡吧
