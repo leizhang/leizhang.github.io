@@ -123,6 +123,7 @@ Markdown | Less | Pretty
 
 [![Learn Vue from Evan You](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=DkGV5F4XnfQ)
 
+<iframe width="1193" height="671" src="https://www.youtube.com/embed/DkGV5F4XnfQ" title="Learn Vite with Evan You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  ----
 ## Final thoughts
 
