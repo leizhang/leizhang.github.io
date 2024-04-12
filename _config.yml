@@ -2,6 +2,9 @@ title: "journal"
 author: "l3i2"
 description: "Mens et Manus - 知行合一" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
+timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
+future: false # GitHub Pages will publish future posts if this isn't set to false
+
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 #email: "example@mail.com"
@@ -30,9 +33,21 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+google_analytics:
+  -  # Old GA Universal Analytics property
+  -  # New GA4 property
+
+gravatar_hash: 
+code_block_max_height: 500px
+
+home_post_limit: 5
+
 titles_from_headings:
   strip_title: true
   collections: true
+
+# The github repo that is to be used for looking up comments
+comments_repo: leizhang/leizhang.github.io
 
 defaults:
   - scope:
