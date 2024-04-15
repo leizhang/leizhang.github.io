@@ -25,7 +25,6 @@ theme: "minima"
 
 rss: rss
 
-markdown: GFM
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
