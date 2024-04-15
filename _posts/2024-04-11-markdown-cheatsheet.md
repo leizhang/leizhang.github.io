@@ -3,7 +3,7 @@ layout: post
 title: "Markdown Cheatsheet and Reference"
 description: This post contains all different Markdown format which I gathered and found useful for my own reference. 
 date: 2024-04-12
-tag: markdown
+categories: markdown
 ---
 
 > **Disclaimer**: This is not legal advice, I'm not a legal professional, this information is just my opinion and my interpretation of research I have done. Some of it may not be accurate or may be plain wrong. Use this information at your own risk. I am not responsible for any damages to you, your computer, etc.
