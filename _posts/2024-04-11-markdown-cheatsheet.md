@@ -6,7 +6,9 @@ date: 2024-04-12
 categories: markdown
 ---
 
-> **Disclaimer**: This is not legal advice, I'm not a legal professional, this information is just my opinion and my interpretation of research I have done. Some of it may not be accurate or may be plain wrong. Use this information at your own risk. I am not responsible for any damages to you, your computer, etc.
+> **Disclaimer**: This blog post serves as a testing ground for markdown syntax functionalities available on GitHub Pages.
+Since GitHub Pages utilise markdown for text rendering, not all functionalities and add-ons might be supported.
+The content within this post, consisting of "Lorem Ipsum" text, is solely for testing purposes. Please disregard the actual writing itself.
 
 > [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
