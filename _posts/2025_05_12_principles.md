@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Principles of Adult Behavior"
+description: Principles of Adult Behavior
+date: 2025-05-12
+categories: markdown
+---
+
 ## Principles of Adult Behavior ##
 (Originally shared by John Perry Barlow, American essayist and activist)
 
